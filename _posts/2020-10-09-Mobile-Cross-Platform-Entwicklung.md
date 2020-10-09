@@ -1,11 +1,11 @@
 ---
-layout: 
+layout: [post, post-xml]
 title: "Mobile Cross Platform Entwicklung"
 date: 2020-10-09 09:00
 modified_date: 2020-10-09 09:00
 author: vincentlipschinski
 categories: [Architektur]
-tags: [Mobile, Cross Platform, React Native, Xamarin, Flutter, Ionic]
+tags: []
 ---
 
 Die Entwicklung mobiler Apps für Android und iOS ist kostspielig und technisch aufwendig.
