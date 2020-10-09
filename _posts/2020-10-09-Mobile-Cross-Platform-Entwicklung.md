@@ -3,8 +3,8 @@ layout: [post, post-xml]
 title: "Mobile Cross Platform Entwicklung"
 date: 2020-10-09 09:00
 modified_date: 2020-10-09 09:00
-author: vincentlipschinskiNICHTINDERYML
-categories: [Architektur]
+author: vincentlipschinski
+categories: []
 tags: [Mobile, Cross Platform, React Native, Xamarin, Flutter, Ionic]
 ---
 
