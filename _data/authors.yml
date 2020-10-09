@@ -347,7 +347,7 @@ vincentlipschinski:
   email: Vincent.Lipschinski@adesso.de
   bio: "Vincent Lipschinski arbeitet als Software Engineer bei adesso. Sein Fokus liegt auf den JavaScript-Technologien und er entwickelt Anwendungen mit React und Angular."
   avatar_url: /assets/images/avatars/vincentlipschinski.jpg
-  github: 
+  github: https://github.com/v1nc33
 
 klausSchnaithmann:
   first_name: Klaus
