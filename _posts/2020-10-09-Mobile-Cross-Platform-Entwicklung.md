@@ -1,7 +1,7 @@
 ---
 layout: [post, post-xml]
 title: "Mobile Cross Platform Entwicklung"
-date: 09:00 2020-10-09
+date: 2020-10-09 09:00
 modified_date: 2020-10-09 09:00
 author: vincentlipschinski
 categories: [Architektur]
