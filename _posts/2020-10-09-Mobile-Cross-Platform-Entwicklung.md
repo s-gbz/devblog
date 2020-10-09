@@ -1,6 +1,6 @@
 ---
-layout: [post, post-xml]
-title: 
+layout: 
+title: "Mobile Cross Platform Entwicklung"
 date: 2020-10-09 09:00
 modified_date: 2020-10-09 09:00
 author: vincentlipschinski
