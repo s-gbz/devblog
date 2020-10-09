@@ -4,7 +4,7 @@ title: "Mobile Cross Platform Entwicklung"
 date: 2020-10-09 09:00
 modified_date: 2020-10-09 09:00
 author: vincentlipschinski
-categories: []
+categories: [Architektur, Java]
 tags: [Mobile, Cross Platform, React Native, Xamarin, Flutter, Ionic]
 ---
 
